@@ -3,6 +3,7 @@ pandas
 numpy
 matplotlib
 seaborn
-scikit-learn
+scikit-learn==1.5.2
+scipy==1.14.1
 joblib
-pyspark
+pyspark==4.0.1
